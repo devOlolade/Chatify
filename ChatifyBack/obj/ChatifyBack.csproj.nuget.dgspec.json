@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oluka\\Desktop\\Chatify\\ChatifyBack\\ChatifyBack.csproj": {}
+    "C:\\Users\\oluka\\Desktop\\Chatify\\chatifyBack\\ChatifyBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oluka\\Desktop\\Chatify\\ChatifyBack\\ChatifyBack.csproj": {
+    "C:\\Users\\oluka\\Desktop\\Chatify\\chatifyBack\\ChatifyBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oluka\\Desktop\\Chatify\\ChatifyBack\\ChatifyBack.csproj",
+        "projectUniqueName": "C:\\Users\\oluka\\Desktop\\Chatify\\chatifyBack\\ChatifyBack.csproj",
         "projectName": "ChatifyBack",
-        "projectPath": "C:\\Users\\oluka\\Desktop\\Chatify\\ChatifyBack\\ChatifyBack.csproj",
+        "projectPath": "C:\\Users\\oluka\\Desktop\\Chatify\\chatifyBack\\ChatifyBack.csproj",
         "packagesPath": "C:\\Users\\oluka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oluka\\Desktop\\Chatify\\ChatifyBack\\obj\\",
+        "outputPath": "C:\\Users\\oluka\\Desktop\\Chatify\\chatifyBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oluka\\AppData\\Roaming\\NuGet\\NuGet.Config"

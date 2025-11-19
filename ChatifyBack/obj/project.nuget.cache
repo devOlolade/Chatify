@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KWqEamu8H3k=",
+  "dgSpecHash": "yZuHdQOZ9cg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oluka\\Desktop\\Chatify\\ChatifyBack\\ChatifyBack.csproj",
+  "projectFilePath": "C:\\Users\\oluka\\Desktop\\Chatify\\chatifyBack\\ChatifyBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oluka\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "C:\\Users\\oluka\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.2.0\\microsoft.aspnetcore.signalr.1.2.0.nupkg.sha512",
@@ -13,9 +13,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.AspNetCore.SignalR will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "C:\\Users\\oluka\\Desktop\\Chatify\\ChatifyBack\\ChatifyBack.csproj",
+      "projectPath": "C:\\Users\\oluka\\Desktop\\Chatify\\chatifyBack\\ChatifyBack.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\oluka\\Desktop\\Chatify\\ChatifyBack\\ChatifyBack.csproj",
+      "filePath": "C:\\Users\\oluka\\Desktop\\Chatify\\chatifyBack\\ChatifyBack.csproj",
       "libraryId": "Microsoft.AspNetCore.SignalR",
       "targetGraphs": [
         "net10.0"
