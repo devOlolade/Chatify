@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatifyBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43f43a8269a76a8e7f6c2d544663ff2a0f827816")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fbb691a32068ee99fb2bf14b5e1eed2ea2ab112")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatifyBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatifyBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
